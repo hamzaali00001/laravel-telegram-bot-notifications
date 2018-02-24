@@ -1,4 +1,4 @@
- ## Laravel Telegram Bot Notificatios
+ ## Laravel Telegram Bot Notifications
  How to install:
  
 
